@@ -5,7 +5,7 @@
 
 - [iOS Banner Integration](https://github.com/rekmob/ios-sdk/wiki/iOS-Banner-Integration)
 
-- [iOS Interstitial(Fullscreen) Integration](https://github.com/rekmob/ios-sdk/wiki/iOS-Banner-Integration)
+- [iOS Interstitial Integration](https://github.com/rekmob/ios-sdk/wiki/iOS-Interstitial-Integration)
  
 
 
